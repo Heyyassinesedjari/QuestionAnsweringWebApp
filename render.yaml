@@ -1,8 +1,0 @@
-services:
-  - name: web
-    build:
-      dockerfile: Dockerfile
-    env:
-      PYTHONUNBUFFERED: "true"
-    ports:
-      - 5000/tcp
