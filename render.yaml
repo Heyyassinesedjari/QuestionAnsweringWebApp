@@ -5,4 +5,4 @@ services:
     env:
       PYTHONUNBUFFERED: "true"
     ports:
-      - 8080/tcp
+      - 5000/tcp
