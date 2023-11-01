@@ -6,5 +6,5 @@ Project Defense Presentation on Google Slides: https://docs.google.com/presentat
 Video App Demonstration (For a better experience set video quality to 1080pHD) : https://drive.google.com/file/d/18HBl332feEmRSQztoxuiUoLVKbGRJfsd/view?usp=sharing
 
 ## Video Demo
-https://user-images.githubusercontent.com/94799575/211200493-4f464eae-9dc2-45ba-ac34-27d0b7122453.mp4
+https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/5bd7fd0f-f1a5-409f-91ef-5dafd6d35a80
 
