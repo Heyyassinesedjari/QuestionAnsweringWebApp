@@ -15,7 +15,7 @@ Every part of this project is sample code which shows how to do the following:
 ## High-level functional explanation
 
 ### Q&A System Architecture Diagram
-<img src="[https://your-image-url.type](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/ced251a7-9413-4dc0-8f0e-beac07ba3668)" width="100" height="100">
+<img src="https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/ced251a7-9413-4dc0-8f0e-beac07ba3668" width="100" height="100">
 ![image](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/ced251a7-9413-4dc0-8f0e-beac07ba3668)
 
 ### Document Retriever Architecture Diagram
