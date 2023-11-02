@@ -1,7 +1,7 @@
 # Question Answering Web Application
 
 [![Discord](https://img.shields.io/discord/823720615965622323.svg?style=for-the-badge)](https://discord.gg/DGxZRP3qeg)
-[python](https://img.shields.io/badge/Python-3.9.12-green)
+![python](https://img.shields.io/badge/Python-3.9.12-green)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/alelievr/Mixture/blob/master/LICENSE)
 [![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://alelievr.github.io/Mixture/manual/GettingStarted.html)
 
