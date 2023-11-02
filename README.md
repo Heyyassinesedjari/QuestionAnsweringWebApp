@@ -1,9 +1,8 @@
 # Question Answering Web Application
 
+![conda](https://img.shields.io/badge/conda-4.12.0-orange)
 ![python](https://img.shields.io/badge/Python-3.9.12-green)
-![python](https://img.shields.io/badge/Python-3.9.12-green)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/alelievr/Mixture/blob/master/LICENSE)
-[![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://alelievr.github.io/Mixture/manual/GettingStarted.html)
+![MIT License](https://img.shields.io/badge/MIT%20License-3.9.12-blue)
 
 ## A fully functional web application that answers factoid questions in arabic or english and written in Python.
 
