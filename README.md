@@ -43,7 +43,7 @@ https://docs.google.com/presentation/d/1vQKFpJJx6TmtOgJ8upJHEEu_9QU-tWXH/edit?us
   
 * Clone this repository
   ```bash
-  git clone https://github.com/myusername/my-project.git
+  git clone https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp.git
 * Install Conda
   ```bash
   wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
