@@ -2,7 +2,7 @@
 
 ## A fully functional web application that answers factoid questions in arabic or english and written in Python.
 
-This project is part of the Introduction to Natural Language Processing class at ENSIAS, Mohamed V University. When choosing the project to work on during the class, I decided to work on the realm of Question and Answering which is a subsection of NLP. At that time, ChatGPT and LLMs were trending and I was so intringued to know how these technologies work. However, these subjects were so advanced that my professor suggested to go step by step and start with the simplest "LLM" wich is a Q&A project that would give me the basics of NLP and could propulse me after into the LLM world.
+This project is a part of my Introduction to Natural Language Processing course at ENSIAS, Mohamed V University. When selecting a project for the class, I chose to focus on Question and Answering, a part of NLP. Back then, ChatGPT and Language Models were quite popular, and I was very interested in understanding how these technologies function. However, these topics were rather advanced, so my professor advised me to proceed gradually. I began with a basic Q&A project, aiming to grasp the fundamentals of NLP. This initial step was meant to prepare me for deeper exploration into the world of LLMs.
 
 Every part of this project is sample code which shows how to do the following:
 
@@ -12,9 +12,9 @@ Every part of this project is sample code which shows how to do the following:
 * Create a Messenger like web application using Flask, HTML, CSS and JavaScript.
 
   
-## For More In-depth explanation about the systems architecture
+## High-level functional explanation
 
-### System Architecture Diagram
+### Q&A System Architecture Diagram
 ![image](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/ced251a7-9413-4dc0-8f0e-beac07ba3668)
 
 ### Document Retriever Architecture Diagram
@@ -26,12 +26,8 @@ Every part of this project is sample code which shows how to do the following:
 ### Application Sequence Diagram
 ![image](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/83f19996-94c1-4be5-ba6f-ef1ff1329bbd)
 
-
-  
-## Video Demo
+###  Video Demo
 https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/5bd7fd0f-f1a5-409f-91ef-5dafd6d35a80
 
-
-
-## Project Defense Presentation (Google Slides)
+### Project Defense Presentation (Google Slides)
 https://docs.google.com/presentation/d/1vQKFpJJx6TmtOgJ8upJHEEu_9QU-tWXH/edit?usp=sharing&ouid=100061785569173216725&rtpof=true&sd=true
