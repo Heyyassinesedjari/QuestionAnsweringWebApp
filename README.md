@@ -31,3 +31,33 @@ https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/5bd
 
 ### Project Defense Presentation (Google Slides)
 https://docs.google.com/presentation/d/1vQKFpJJx6TmtOgJ8upJHEEu_9QU-tWXH/edit?usp=sharing&ouid=100061785569173216725&rtpof=true&sd=true
+
+## Get Started
+* Install Git (Ubuntu/Debian)
+  ```bash
+  sudo apt update
+  sudo apt install git
+* Navigate to the Directory
+  ```bash
+  cd path/to/desired/location
+  
+* Clone this repository
+  ```bash
+  git clone https://github.com/myusername/my-project.git
+* Install Conda
+  ```bash
+  wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+  bash Miniconda3-latest-Linux-x86_64.sh
+  source ~/.bashrc
+
+* Creating a Conda Environment
+  ```bash
+  conda create --name myenv python=3.8
+* Activate Conda Environment and Install all requirements
+  ```bash
+  conda activate myenv
+  conda install --file path_to_requirements.txt
+* Run the App
+  ```bash
+  python app.py
+  
