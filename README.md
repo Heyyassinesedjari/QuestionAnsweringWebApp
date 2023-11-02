@@ -19,12 +19,15 @@ Every part of this project is sample code which shows how to do the following:
 
 ### Document Retriever Architecture Diagram
 ![image](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/602dad7c-bbd6-42a4-837d-a90e797ab187)
+<img src="https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/602dad7c-bbd6-42a4-837d-a90e797ab187" width="70%" height="70%">
 
 ### Document Reader Architecture Diagram
 ![image](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/0e57a945-5f8e-4088-b53a-f4bc8fa81202)
+<img src="https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/ced251a7-9413-4dc0-8f0e-beac07ba3668" width="70%" height="70%">
 
 ### Application Sequence Diagram
 ![image](https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/83f19996-94c1-4be5-ba6f-ef1ff1329bbd)
+<img src="https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/83f19996-94c1-4be5-ba6f-ef1ff1329bbd" width="70%" height="70%">
 
 ###  Video Demo
 https://github.com/Heyyassinesedjari/QuestionAnsweringWebApp/assets/94799575/5bd7fd0f-f1a5-409f-91ef-5dafd6d35a80
