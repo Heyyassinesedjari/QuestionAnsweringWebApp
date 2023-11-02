@@ -12,7 +12,7 @@ Every part of this project is sample code which shows how to do the following:
 
 * Create an open-domain Arabic and English question answering system using Python.
 * Implement a Document Retriever using wikipedia api.
-* Implement a Document Reader using both [distilbert-base-cased-distilled-squad](https://huggingface.co/distilbert-base-cased-distilled-squad) and [AraElectra-Arabic-SQuADv2-QA](https://huggingface.co/ZeyadAhmed/AraElectra-Arabic-SQuADv2-QA) models through api calls to HuggingFace server using inference api.
+* Implement a Document Reader using Transformers including both [distilbert-base-cased-distilled-squad](https://huggingface.co/distilbert-base-cased-distilled-squad) and [AraElectra-Arabic-SQuADv2-QA](https://huggingface.co/ZeyadAhmed/AraElectra-Arabic-SQuADv2-QA) through api calls to HuggingFace server using inference api.
 * Create a Messenger like web application using Flask, HTML, CSS and JavaScript.
 
 ## Getting Started (Ubuntu/Debian)
