@@ -2,7 +2,7 @@
 
 ![conda](https://img.shields.io/badge/conda-4.12.0-orange)
 ![python](https://img.shields.io/badge/Python-3.9.12-green)
-![MIT License](https://img.shields.io/badge/MIT%20License-3.9.12-blue)
+![MIT License](https://img.shields.io/badge/MIT_License-blue)
 
 ## A fully functional web application that answers factoid questions in arabic or english and written in Python.
 
