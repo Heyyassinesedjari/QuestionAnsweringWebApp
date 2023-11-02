@@ -39,8 +39,6 @@ Every part of this project is sample code which shows how to do the following:
 * Run the App
   ```bash
   python app.py
-  
-
 
 ## High-level functional explanation
 
