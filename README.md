@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/badge/Python-3.9.12-green)
 ![MIT License](https://img.shields.io/badge/MIT_License-blue)
 
-## A fully functional web application that answers factoid questions in arabic or english and written in Python.
+## An operational web application capable of responding to factual queries in both Arabic and English, built using the Python programming language.
 
 This project is a part of my Introduction to Natural Language Processing course at [ENSIAS](https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_et_d%27analyse_des_syst%C3%A8mes), [Mohammed V University](https://en.wikipedia.org/wiki/Mohammed_V_University). When selecting a project for the class, I chose to focus on Question and Answering, a part of NLP. Back then, ChatGPT and Language Models were quite popular, and I was very interested in understanding how these technologies function. However, these topics were rather advanced, so my professor advised me to proceed gradually. I began with a basic Q&A project, aiming to grasp the fundamentals of NLP. This initial step was meant to prepare me for deeper exploration into the world of LLMs.
 
