@@ -6,7 +6,7 @@ import wikipedia as wiki
 
 API_URL_ENG = "https://api-inference.huggingface.co/models/distilbert-base-cased-distilled-squad"
 API_URL_AR = "https://api-inference.huggingface.co/models/ZeyadAhmed/AraElectra-Arabic-SQuADv2-QA"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer Your_Hugging_Face_API_key"}
 
 
 
