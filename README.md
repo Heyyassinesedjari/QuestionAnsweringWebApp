@@ -1,8 +1,9 @@
-# Question Answering Web Application
-
-![conda](https://img.shields.io/badge/conda-4.12.0-orange)
-![python](https://img.shields.io/badge/Python-3.9.12-green)
-![MIT License](https://img.shields.io/badge/MIT_License-blue)
+# <p align="center">Question Answering Web Application</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/conda-4.12.0-orange" width="10%" height="10%">
+  <img src="https://img.shields.io/badge/Python-3.9.12-green" width="10%" height="10%">
+  <img src="https://img.shields.io/badge/MIT_License-blue" width="8%" height="8%">
+</p>
 
 ## An operational web application capable of responding to factual queries in both Arabic and English, built using the Python programming language.
 
